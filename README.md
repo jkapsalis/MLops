@@ -1,9 +1,10 @@
 # MLOps Project
 
-This repository is dedicated to implementing Machine Learning Operations (MLOps) practices, focusing on the seamless integration and deployment of machine learning models into production environments.
+This repository is dedicated to implementing Machine Learning Operations (MLOps) practices.
+It's client class is for fetching the data from the Http API called ADZUNA API that has a variety of a data on the job market data 
 
 ## Project Structure
-- **AdzunaClient/**: Contains modules for interacting with the Adzuna API to fetch job market data.
+- **AdzunaClient/**: Interaction with the Adzuna API to fetch job market data.
 - **main.py**: The main script that orchestrates data retrieval, processing, and model operations.
 
 ## Getting Started
@@ -20,8 +21,10 @@ This repository is dedicated to implementing Machine Learning Operations (MLOps)
 
 -------------------------------------------------------
 ## Features
-- **Data Ingestion**: Fetches real-time job market data from the Adzuna API.
-- **Data Processing**: Cleans and preprocesses the data for analysis.
+Till now
+- **Data Insertion**: Fetches real-time job market data from the Adzuna API.
+On 2nd time
+- **Data Process**: Cleans and preprocesses the data for analysis.
 - **Model Integration**: Placeholder for integrating machine learning models for predictive analysis.
 
 ## Usage
